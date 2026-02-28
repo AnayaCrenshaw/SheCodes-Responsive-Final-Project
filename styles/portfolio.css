@@ -178,7 +178,7 @@ footer .social-links a {
 
 footer .social-links a:hover {
   color: white;
-  background: var(--branding-color);
+  background: var(--accent-color);
 }
 
 @media (max-width: 900px) {
