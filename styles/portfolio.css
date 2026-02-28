@@ -116,7 +116,7 @@ p {
 }
 
 nav {
-  padding: 0px 0;
+  padding: 20px 0;
 }
 
 nav ul {
@@ -127,7 +127,7 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
-  line-height: 42px;
+  line-height: 15px;
   margin-left: 15px;
 }
 
