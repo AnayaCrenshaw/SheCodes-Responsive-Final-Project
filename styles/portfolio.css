@@ -142,11 +142,11 @@ nav li.active a {
   color: var(--branding-color);
 }
 
-img:not(.logo) :not(.anaya) {
+img:not(.logo) {
   transition: 150ms ease-in-out;
 }
 
-img:hover:not(.logo) :not(.anaya) {
+img:hover:not(.logo) {
   transform: scale(1.05);
 }
 
