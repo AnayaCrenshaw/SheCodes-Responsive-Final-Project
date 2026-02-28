@@ -143,11 +143,11 @@ nav li.active a {
 }
 
 img {
-  transition: scale(1.5);
+  transition: 150ms ease-in-out;
 }
 
 img:hover {
-  transform: 150ms ease-in-out;
+  transform: scale(1.5);
 }
 
 footer {
