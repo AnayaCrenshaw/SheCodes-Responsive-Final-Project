@@ -128,6 +128,7 @@ nav li {
   display: inline;
   list-style: none;
   line-height: 15px;
+  line-break: 0px;
   margin-left: 15px;
 }
 
